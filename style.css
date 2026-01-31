@@ -59,3 +59,14 @@ body {
         font-size: 28px;
     }
 }
+@media (min-width: 992px) {
+    .navbar {
+        margin-right: 50px;
+    }
+}
+.social-icon {
+    width: 45px;
+    height: 45px;
+    object-fit: contain;
+    display: block;
+}
